@@ -24,8 +24,4 @@ I am currently studying CS @ Northeastern University. I want to build software t
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.shion.dev/api?username=evanbr11&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com/?user=evanbr11&theme=dark&hide_border=false"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
