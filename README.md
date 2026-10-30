@@ -1,5 +1,5 @@
 # 👋 Hi There, I'm Evan!
-I am currently studying CS @ Northeastern University. I want to build software that _actually_ makes an impact in the world.<br><br>🧐 Interested in backend development and AI/ML.<br>🌱 I’m currently learning how to apply the concepts I've learned to real-world projects.<br>💬 Let me know if you have any tips or tricks to help me improve my skills!
+I am currently studying CS @ Northeastern University. I want to build software that _actually_ makes an impact in the world.<br><br>🧐 Interested in backend development.<br>🌱 I’m currently learning how to apply the concepts I've learned to real-world projects.<br>💬 Let me know if you have any advice to help me improve my skills!
 
 
 ## 🌐 Let's Connect:
