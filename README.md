@@ -1,5 +1,5 @@
 # 👋 Hi There, I'm Evan!
-I am currently studying CS @ Northeastern University. I want to build software that _actually_ makes an impact in the world. I'm interested in all kinds of software, but am mostly geared towards backend engineering and infrastructure, understanding the boundaries of AI, and learning along the way! 
+I am currently studying CS @ Northeastern University. I want to build software that _actually_ makes an impact in the world. I'm interested in all kinds of development work, but am mostly geared towards backend engineering and infrastructure, understanding the boundaries of AI, and learning along the way! 
 
 # 💻 Tech Stack:
 
